@@ -1,0 +1,21 @@
+<html>
+<head>
+         <title> lists demo </title>
+</head>
+<body>
+         <h1> ordered and unordered lists
+		 <h2> unordered list</h2>
+		 <ui>
+		     <Li> apples </li>
+			 <Li>bananas </li>
+			<LI>oranges  </li>
+		</ui>
+		
+		<h2> ordered list </h2>
+		<oi>
+		     <first item </li>
+			 <second item</li>
+			 <third item </li>
+	   </oi>
+</body>
+</html>
